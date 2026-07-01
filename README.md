@@ -25,6 +25,49 @@ Currently, my research direction involves quantum algorithms in computer vision 
 
 </p>
 
+## Tech Stack
+
+Languages:
+- Python
+- SQL
+
+Machine Learning:
+- Scikit-learn
+- XGBoost
+- LightGBM
+- Random Forest
+- Regression Models
+- Classification Models
+
+Deep Learning & AI:
+- PyTorch
+- Transformers
+- CNN
+- ResNet
+- Large Language Models (LLMs)
+- Agentic AI
+- LangChain
+
+Backend:
+- FastAPI
+- Docker
+
+Database:
+- PostgreSQL
+- ChromaDB
+- FAISS
+
+## Currently Learning
+
+- MLOps
+- Cloud Deployment
+- Distributed Systems
+
+## 📫 Contact
+
+- LinkedIn: [nghhuy03](https://www.linkedin.com/in/nghhuy03/)
+- Email: ng.hhuy03@gmail.com
 
 
+## Featured Projects:
 
