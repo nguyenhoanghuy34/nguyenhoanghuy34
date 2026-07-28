@@ -1,73 +1,99 @@
-## Nguyen Hoang Huy 👨‍💻
-AI Engineer | Data Scientist | Quantum Engineer
+# Nguyen Hoang Huy 👨‍💻
 
-## About Me 🧠
-<p align="justify">
-  I am a researcher with a strong interest in exploring and developing technologies in the fields of Large Language Models (LLMs), Agentic AI, and intelligent AI systems. I enjoy studying how AI agents can be designed, optimized, and applied to solve complex real-world problems.
+**AI Engineer | Data Scientist | Quantum AI Researcher**
+
+---
+
+## 🧠 About Me
+
+I am an AI researcher passionate about developing intelligent systems powered by **Large Language Models (LLMs)**, **Agentic AI**, and modern machine learning techniques. My goal is to bridge cutting-edge AI research with practical applications that solve real-world problems.
+
+My research interests span **predictive modeling**, **computer vision**, and **decision-support systems**, with a focus on applying data-driven methods to economic and management domains.
+
+Currently, I am exploring **quantum machine learning**, particularly quantum algorithms for computer vision and linear systems, while also building scalable AI systems for real-world deployment.
+
+I believe that continuous learning, curiosity, and scientific thinking are the foundations of meaningful innovation. I enjoy collaborating with others, sharing knowledge, and tackling challenging research problems.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.simpleicons.org/mysql" height="48"/>
 </p>
 
-<p align="justify">
-  My research interests also include predictive modeling for economic and management data. I focus on understanding data-driven approaches, building analytical models, and exploring how machine learning techniques can support decision-making and practical applications.
+### AI & Machine Learning
+
+<p>
+  <img src="https://cdn.simpleicons.org/pytorch" height="48"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="48"/>
+  <img src="https://cdn.simpleicons.org/huggingface" height="48"/>
+  <img src="https://cdn.simpleicons.org/langchain" height="48"/>
+  <img src="https://cdn.simpleicons.org/xgboost" height="48"/>
+  <img src="https://cdn.simpleicons.org/lightgbm" height="48"/>
 </p>
 
-<p align="justify">
-Currently, my research direction involves quantum algorithms in computer vision and linear systems, along with the improvement of AI models for real-world deployment. I am interested in bridging theoretical research and practical innovation to create more efficient and reliable solutions.
+### Backend & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker" />
 </p>
 
-<p align="justify">
-  As a scientific researcher, I believe continuous learning and curiosity are essential for growth. I value different perspectives, welcome constructive evaluation, and constantly seek to understand and position myself within the rapidly evolving technology landscape.
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://cdn.simpleicons.org/chroma" height="48"/>
 </p>
 
+### Currently Learning
 
-<p align="justify">
-
-  I am always looking for new challenges, opportunities, and collaborations that allow me to expand my knowledge, contribute meaningful ideas, and continue developing as a researcher.
-
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws" />
+  <img src="https://cdn.simpleicons.org/apachespark" height="48"/>
 </p>
 
-## Tech Stack
+**Learning Focus**
 
-Languages:
-- Python
-- SQL
+* MLOps
+* Distributed Systems
+* Cloud Deployment
+* Apache Spark
+* Kubernetes
+* AI Infrastructure
 
-Machine Learning:
-- Scikit-learn
-- XGBoost
-- LightGBM
-- Random Forest
-- Regression Models
-- Classification Models
+---
 
-Deep Learning & AI:
-- PyTorch
-- Transformers
-- CNN
-- ResNet
-- Large Language Models (LLMs)
-- Agentic AI
-- LangChain
+## 📌 Research Interests
 
-Backend:
-- FastAPI
-- Docker
+* Large Language Models (LLMs)
+* Agentic AI
+* Retrieval-Augmented Generation (RAG)
+* AI Systems Engineering
+* Quantum Machine Learning
+* Computer Vision
+* Predictive Modeling
+* Time Series Forecasting
+* Explainable AI (XAI)
 
-Database:
-- PostgreSQL
-- ChromaDB
-- FAISS
+---
 
-## Currently Learning
+## 📫 Connect with Me
 
-- MLOps
-- Cloud Deployment
-- Distributed Systems
+* 💼 LinkedIn: **https://www.linkedin.com/in/nghhuy03/**
+* 📧 Email: **[ng.hhuy03@gmail.com](mailto:ng.hhuy03@gmail.com)**
 
-## 📫 Contact
+---
 
-- LinkedIn: [nghhuy03](https://www.linkedin.com/in/nghhuy03/)
-- Email: ng.hhuy03@gmail.com
+## ⭐ Featured Projects
 
+> Coming soon...
 
-## Featured Projects:
-
+* 🤖 Agentic AI Systems
+* 📚 Vietnamese Legal LLM
+* 📈 Financial Market Prediction
+* ⚛️ Quantum Machine Learning
+* 🔍 Retrieval-Augmented Generation (RAG)
