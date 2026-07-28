@@ -6,13 +6,7 @@
 
 ## 🧠 About Me
 
-I am an AI researcher passionate about developing intelligent systems powered by **Large Language Models (LLMs)**, **Agentic AI**, and modern machine learning techniques. My goal is to bridge cutting-edge AI research with practical applications that solve real-world problems.
-
-My research interests span **predictive modeling**, **computer vision**, and **decision-support systems**, with a focus on applying data-driven methods to economic and management domains.
-
-Currently, I am exploring **quantum machine learning**, particularly quantum algorithms for computer vision and linear systems, while also building scalable AI systems for real-world deployment.
-
-I believe that continuous learning, curiosity, and scientific thinking are the foundations of meaningful innovation. I enjoy collaborating with others, sharing knowledge, and tackling challenging research problems.
+I am an AI researcher passionate about **Large Language Models (LLMs)**, **Agentic AI**, and **Machine Learning**. I enjoy building intelligent systems that bridge research and real-world applications.
 
 ---
 
