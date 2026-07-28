@@ -11,56 +11,11 @@ I am an AI researcher passionate about **Large Language Models (LLMs)**, **Agent
 ---
 
 ## 🚀 Tech Stack
+🚀 Tech Stack
 
-### Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgresql,aws,kubernetes" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.simpleicons.org/mysql" height="48"/>
-</p>
-
-### AI & Machine Learning
-
-<p>
-  <img src="https://cdn.simpleicons.org/pytorch" height="48"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn" height="48"/>
-  <img src="https://cdn.simpleicons.org/huggingface" height="48"/>
-  <img src="https://cdn.simpleicons.org/langchain" height="48"/>
-  <img src="https://cdn.simpleicons.org/xgboost" height="48"/>
-  <img src="https://cdn.simpleicons.org/lightgbm" height="48"/>
-</p>
-
-### Backend & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-  <img src="https://cdn.simpleicons.org/chroma" height="48"/>
-</p>
-
-### Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws" />
-  <img src="https://cdn.simpleicons.org/apachespark" height="48"/>
-</p>
-
-**Learning Focus**
-
-* MLOps
-* Distributed Systems
-* Cloud Deployment
-* Apache Spark
-* Kubernetes
-* AI Infrastructure
-
----
-
+<p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,xgboost,lightgbm,huggingface,langchain,chromadb,faiss,spark" /> </p>
 ## 📌 Research Interests
 
 * Large Language Models (LLMs)
