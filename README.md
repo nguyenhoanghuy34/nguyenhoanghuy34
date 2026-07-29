@@ -1,9 +1,3 @@
-# Nguyen Hoang Huy 👨‍💻
-
-**AI Engineer | Data Scientist | Quantum AI Researcher**
-
----
-
 ## 🧠 About Me
 
 I am an AI researcher passionate about **Large Language Models (LLMs)**, **Agentic AI**, and **Machine Learning**. I enjoy building intelligent systems that bridge research and real-world applications.
