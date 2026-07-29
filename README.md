@@ -5,7 +5,6 @@ I am an AI researcher passionate about **Large Language Models (LLMs)**, **Agent
 ---
 
 ## 🚀 Tech Stack
-🚀 Tech Stack
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgresql,aws,kubernetes" /> </p>
 
