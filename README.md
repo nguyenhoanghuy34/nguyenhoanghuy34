@@ -1,11 +1,5 @@
-## 🧠 About Me
-
-I am an AI researcher passionate about **Large Language Models (LLMs)**, **Agentic AI**, and **Machine Learning**. I enjoy building intelligent systems that bridge research and real-world applications.
-
+**Large Language Models (LLMs)**, **Agentic AI**, and **Machine Learning**.
 ---
-
-## 🚀 Tech Stack
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgresql,aws,kubernetes" /> </p>
 
 <p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,xgboost,lightgbm,huggingface,langchain,chromadb,faiss,spark" /> </p>
