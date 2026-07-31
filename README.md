@@ -1,4 +1,6 @@
-**Large Language Models (LLMs)**, **Agentic AI**, and **Machine Learning**.
+<h2 align="center">
+  Hi 👋, I'm Hoang Huy Nguyen
+</h2>
 ---
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgresql,aws,kubernetes" /> </p>
 
