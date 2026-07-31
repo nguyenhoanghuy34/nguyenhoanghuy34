@@ -3,6 +3,12 @@
 </h3>
 
 <div align="center">
+  <sub>Data Scientist specializing in Machine Learning, Large Language Models, Agentic AI, and AI Systems Engineering.</sub>
+</div>
+
+<br>
+
+<div align="center">
 [<a href="https://www.linkedin.com/in/nghhuy03/">LinkedIn</a>]
 </div>
 
@@ -55,14 +61,3 @@
 </div>
 
 </details>
-
-
-## ⭐ Featured Projects
-
-> Coming soon...
-
-* 🤖 Agentic AI Systems
-* 📚 Vietnamese Legal LLM
-* 📈 Financial Market Prediction
-* ⚛️ Quantum Machine Learning
-* 🔍 Retrieval-Augmented Generation (RAG)
