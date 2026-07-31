@@ -5,6 +5,23 @@
 <p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,xgboost,lightgbm,huggingface,langchain,chromadb,faiss,spark" /> </p>
 ## 📌 Research Interests
 
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgresql,aws,kubernetes" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,huggingface,langchain,apachespark" />
+</p>
+
+<p align="center">
+
+**XGBoost • LightGBM • FAISS • ChromaDB • MLflow**
+
+</p>
+
 * Large Language Models (LLMs)
 * Agentic AI
 * Retrieval-Augmented Generation (RAG)
