@@ -2,21 +2,12 @@
   Hi 👋, I'm Hoang Huy Nguyen
 </h3>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgresql,aws,kubernetes" /> </p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,huggingface,langchain,spark" />
-</p>
-
-<p align="center">
-  <b>XGBoost</b> • <b>LightGBM</b> • <b>FAISS</b> • <b>ChromaDB</b> • <b>MLflow</b>
-</p>
-
-
-<h2 align="center">💻 Tech Stack</h2>
-
 <div align="center">
+[<a href="https://www.linkedin.com/in/nghhuy03/">LinkedIn</a>]
+</div>
 
+<h3 align="center">💻 Tech Stack</h3>
+<div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -44,26 +35,27 @@
 
 </div>
 
-## 📌 Research Interests
+<details>
+<summary align="center">
+<h3>📌 Research Interests</h3>
+</summary>
 
-* Large Language Models (LLMs)
-* Agentic AI
-* Retrieval-Augmented Generation (RAG)
-* AI Systems Engineering
-* Quantum Machine Learning
-* Computer Vision
-* Predictive Modeling
-* Time Series Forecasting
-* Explainable AI (XAI)
+<div align="center">
 
----
+🧠 Large Language Models (LLMs)<br>
+🤖 Agentic AI<br>
+📚 Retrieval-Augmented Generation (RAG)<br>
+⚙️ AI Systems Engineering<br>
+⚛️ Quantum Machine Learning<br>
+👁️ Computer Vision<br>
+📈 Predictive Modeling<br>
+📊 Time Series Forecasting<br>
+🔍 Explainable AI (XAI)
 
-## 📫 Connect with Me
+</div>
 
-* 💼 LinkedIn: **https://www.linkedin.com/in/nghhuy03/**
-* 📧 Email: **[ng.hhuy03@gmail.com](mailto:ng.hhuy03@gmail.com)**
+</details>
 
----
 
 ## ⭐ Featured Projects
 
