@@ -1,10 +1,8 @@
-<h2 align="center">
+<h3 align="center">
   Hi 👋, I'm Hoang Huy Nguyen
-</h2>
----
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgresql,aws,kubernetes" /> </p>
+</h3>
 
-<p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,xgboost,lightgbm,huggingface,langchain,chromadb,faiss,spark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgresql,aws,kubernetes" /> </p>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,huggingface,langchain,spark" />
